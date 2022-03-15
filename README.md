@@ -83,11 +83,11 @@
 </p> 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=h1t3ndr4&show_icons=true&locale=en&layout=compact" width=500 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMKAR-WD&show_icons=true&locale=en&layout=compact" width=500 />
 </p>  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h1t3ndr4&show_icons=true&locale=en" width=500/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OMKAR-WD&show_icons=true&locale=en" width=500/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1t3ndr4&" width=500/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OMKAR-WD&" width=500/> 
 </p>
