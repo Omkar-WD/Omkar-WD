@@ -1,31 +1,41 @@
 <h1 align="center">Hi 👋, I'm Omkar Pasalkar</h1>
 <h3 align="center">Web-developer specializing in MERN Technologies</h3>
+<br><br>
+<img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=1000>
+<br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<br><br>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=OMKAR-WD"/>
   </a>
 </p>
+<br><br>
 
 <p align="center">
   <a href="https://twitter.com/OmkarPasalkar18" target="blank">
     <img src="https://img.shields.io/twitter/follow/OmkarPasalkar18?logo=twitter&style=for-the-badge"/>
   </a> 
 </p>
+<br>
 
 <p align="center"> 
   <h2 align="center"> 💬 Ask me about</h2>
   <p align="center">
     <strong>JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB</strong>
   </p>
+  <br>
   <h2 align="center"> 📫 How to reach me </h2>
   <p align="center">
     <strong>omkarpasalkar2020@gmail.com</strong>
   </p>
+  <br>
   <h2 align="center"> 📄 Know about my experiences</h2>
   <p align="center">https://drive.google.com/file/d/1m151wQKWLuxNKshh9XqEUNo5Bg91NTLZ/view?usp=sharing</p>
+  <br>
+  
   <h2 align="center">Connect with me:</h2>
   <p align="center">
     <a href="https://twitter.com/OmkarPasalkar18" target="blank" >
@@ -35,10 +45,9 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     </a>
     <a href="https://instagram.com/omkar_pasalkar" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-      
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />  
 </p>
-
+<br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -81,6 +90,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
 </p> 
+<br><br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMKAR-WD&show_icons=true&locale=en&layout=compact" width=500 />
