@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omkar Pasalkar</h1>
+
 <h3 align="center">Web-developer specializing in MERN Technologies</h3>
+
+<h6 align="center">Hard working and detail-oriented aspiring full stack web
+developer with current expertise in HTML, CSS, JS and API.
+Having strong interpersonal and technical skills with the
+ability to acquire concepts quickly. Looking for a role
+where I can apply my knowledge.</h6>
 <br><br>
 <img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=1000>
 <br><br>
