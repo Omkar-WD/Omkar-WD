@@ -8,9 +8,8 @@ Having strong interpersonal and technical skills with the
 ability to acquire concepts quickly. Looking for a role
 where I can apply my knowledge.</h6>
 <br><br>
-<img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=1000>
+<div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width="700" /></div>
 <br><br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <br><br>
 
