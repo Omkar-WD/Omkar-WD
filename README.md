@@ -45,10 +45,13 @@ where I can apply my knowledge.</h6>
     <a target="_blank" href="mailto:omkarpasalkar2020@gmail.com"><img src="https://img.shields.io/badge/omkarpasalkar2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
   <br>
-  <h2 align="center"> 📄 Know about my experiences</h2>
-  <p align="center">https://drive.google.com/file/d/1m151wQKWLuxNKshh9XqEUNo5Bg91NTLZ/view?usp=sharing</p>
-  <br>
+<h2 align="center"> 📄 Know about my experiences</h2>
+<div align="center">
   
+Click here for my [Resume](https://drive.google.com/file/d/1m151wQKWLuxNKshh9XqEUNo5Bg91NTLZ/view?usp=sharing/ "Title")  
+
+</div>  
+<br>
   <h2 align="center">Connect with me:</h2>
   <p align="center">
     <a href="https://twitter.com/OmkarPasalkar18" target="blank" >
