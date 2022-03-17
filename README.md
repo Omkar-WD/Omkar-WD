@@ -30,13 +30,18 @@ where I can apply my knowledge.</h6>
 
 <p align="center"> 
   <h2 align="center"> 💬 Ask me about</h2>
-  <p align="center">
-    <strong>JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB</strong>
-  </p>
+  <div align="center">
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ </div>
   <br>
   <h2 align="center"> 📫 How to reach me </h2>
   <p align="center">
-    <strong>omkarpasalkar2020@gmail.com</strong>
+    <a target="_blank" href="mailto:omkarpasalkar2020@gmail.com"><img src="https://img.shields.io/badge/omkarpasalkar2020@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
   <br>
   <h2 align="center"> 📄 Know about my experiences</h2>
@@ -100,11 +105,11 @@ where I can apply my knowledge.</h6>
 <br><br> 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMKAR-WD&show_icons=true&locale=en&layout=compact" width=500 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OMKAR-WD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width=500 />
 </p>  
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OMKAR-WD&show_icons=true&locale=en" width=500/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OMKAR-WD&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OMKAR-WD&" width=500/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OMKAR-WD&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/> 
 </p>
