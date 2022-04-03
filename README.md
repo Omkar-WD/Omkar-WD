@@ -10,7 +10,7 @@ where I can apply my knowledge.</h6>
 <br><br>
 <div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width="700" /></div>
 <br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h1t3ndr4&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username==OMKAR-WD&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <br><br>
 
 <p align="center"> 
