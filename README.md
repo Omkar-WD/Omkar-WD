@@ -48,7 +48,7 @@ where I can apply my knowledge.</h6>
 <h2 align="center"> 📄 Know about my experiences</h2>
 <div align="center">
   
-Click here for my [Resume](https://drive.google.com/file/d/1m151wQKWLuxNKshh9XqEUNo5Bg91NTLZ/view?usp=sharing/ "Title")  
+Click here for my [Resume](https://drive.google.com/file/d/1SBprbCYOwrKYGjnWkiku_iclGuRi988v/view?usp=sharing "Title")  
 
 </div>  
 <br>
